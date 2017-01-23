@@ -23,7 +23,7 @@
     "animate.css": "^3.5.1",
     "bootstrap": "4.0.0-alpha.4",
     "chart.js": "^1.1.1",
-    "chartist": "^0.9.7",
+    "chartist": "^0.10.1",
     "ckeditor": "4.6.0",
     "core-js": "^2.4.1",
     "easy-pie-chart": "^2.1.7",
@@ -42,7 +42,6 @@
     "lodash": "^4.12.0",
     "ng2-bootstrap": "1.1.16-11",
     "ng2-ckeditor": "1.1.5",
-    "ng2-smart-table": "^0.3.2",
     "ng2-tree": "^2.0.0-alpha.0",
     "ngx-uploader": "^2.0.24",
     "normalize.css": "^4.1.1",
@@ -183,7 +182,6 @@
     "url": "https://github.com/akveo/ng2-admin/issues"
   },
   "engines": {
-    "node": ">= 4.2.1",
-    "npm": ">= 3"
+    "node": ">= 6 < 7"
   }
 }
